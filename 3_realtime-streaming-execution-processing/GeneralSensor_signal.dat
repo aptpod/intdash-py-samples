@@ -1,0 +1,5 @@
+@version 2.0
+{"_type":"group","linkedEdge":[],"groupID":"d582e406-f87a-44c8-8b02-f342ada3bcb6","groupName":"GeneralSensor_signal"}
+{"_type":"data","thresholds":[{"min":null,"max":null}],"replay":false,"name":"Acceleration X","dataName":"1_sp_ACCX","dataGroupID":"1_sp_ACCX","dataID":"1_sp_ACCX","dataGroupName":"1_sp_ACCX","format":"%0.4f","valueRange":{"min":-10,"max":10},"convert":null,"unit":"","description":""}
+{"_type":"data","thresholds":[{"min":null,"max":null}],"replay":false,"name":"Acceleration Y","dataName":"1_sp_ACCY","dataGroupID":"1_sp_ACCY","dataID":"1_sp_ACCY","dataGroupName":"1_sp_ACCY","format":"%0.4f","valueRange":{"min":-10,"max":10},"convert":null,"unit":"","description":""}
+{"_type":"data","thresholds":[{"min":null,"max":null}],"replay":false,"name":"Acceleration Z","dataName":"1_sp_ACCZ","dataGroupID":"1_sp_ACCZ","dataID":"1_sp_ACCZ","dataGroupName":"1_sp_ACCZ","format":"%0.4f","valueRange":{"min":-10,"max":10},"convert":null,"unit":"","description":""}
