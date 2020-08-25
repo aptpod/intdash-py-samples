@@ -1,6 +1,6 @@
 # intdash SDK for Python  Sample Codes
 
-[intdash SDK for Python Sample Codes](https://docs.intdash.jp/sdk/python/latest/guide/codesample.html) に記載されている、サンプルコードの実行用ノートブック集です。
+[intdash SDK for Python Sample Codes](https://docs.intdash.jp/sdk/python/latest/ja/guide/codesample.html) に記載されている、サンプルコードの実行用ノートブック集です。
 
 ## 事前準備 
 
