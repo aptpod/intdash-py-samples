@@ -59,5 +59,5 @@ In these sample codes, there are cases where the signal definitions (definitions
 
 In these samples, our **Visual M2M** applications are used for data transmission and data visualization. For details, see the guide of each application.
 
-- Data transmission: **Visual M2M Motion**
+- Data transmission: **intdash Motion**
 - Data visualization: **Visual M2M Data Visualizer**
