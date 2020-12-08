@@ -1,6 +1,9 @@
 # intdash SDK for Python - Sample Codes
 
-This is a collection of notebooks for executing the sample codes described in [intdash SDK for Python - Code samples](https://docs.intdash.jp/sdk/python/latest/en/guide/codesample.html).
+This is a collection of notebooks for executing the sample codes described in [intdash SDK for Python - Code samples](https://docs.intdash.jp/sdk/python/latest/en/guide/codesample.html).  
+
+> **Note**: The screens shown in this document are examples only. Depending on your environment and application versions, the display and procedures may differ in part.</p>
+
 
 ## Preparation
 
@@ -59,5 +62,5 @@ In these sample codes, there are cases where the signal definitions (definitions
 
 In these samples, our **Visual M2M** applications are used for data transmission and data visualization. For details, see the guide of each application.
 
-- Data transmission: **Visual M2M Motion**
+- Data transmission: **intdash Motion**
 - Data visualization: **Visual M2M Data Visualizer**
