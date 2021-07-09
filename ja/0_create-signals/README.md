@@ -1,0 +1,1 @@
+`0_create-signals` は [こちら](https://docs.intdash.jp/sdk/python/latest/ja/guide/signalsample.html) に移行しました。

@@ -1,6 +1,6 @@
 # intdash SDK for Python - Sample Codes
 
-This is a collection of notebooks for executing the sample codes described in [intdash SDK for Python - Code samples](https://docs.intdash.jp/sdk/python/latest/en/guide/codesample.html).  
+This is a collection of notebooks for executing examples of using intdash SDK for Python in combination with other products.  
 
 > **Note**: The screens shown in this document are examples only. Depending on your environment and application versions, the display and procedures may differ in part.</p>
 

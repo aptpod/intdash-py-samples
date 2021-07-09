@@ -1,0 +1,1 @@
+`4_acquistion-image-data` は [こちら](https://docs.intdash.jp/sdk/python/latest/ja/guide/datasample.html#jpeg) に移行しました。
