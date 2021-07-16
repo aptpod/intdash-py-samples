@@ -1,4 +1,4 @@
-# intdash SDK for Python - Sample Codes
+# intdash SDK for Python - Samples
 
 This is a collection of notebooks for executing examples of using intdash SDK for Python in combination with other products.  
 

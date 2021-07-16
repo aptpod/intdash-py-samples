@@ -1,4 +1,4 @@
-# intdash SDK for Python  Sample Codes
+# intdash SDK for Python Samples
 
 intdash SDK for Pythonと他製品を組み合わせた利用例を、サンプルとして提供する実行用ノートブック集です。  
 
