@@ -1,0 +1,1 @@
+`2_JSON-data-acquisition-using-signal` is moved [here.](https://docs.intdash.jp/sdk/python/latest/en/guide/datasample.html#json) 

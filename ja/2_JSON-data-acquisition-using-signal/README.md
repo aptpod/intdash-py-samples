@@ -1,0 +1,1 @@
+`2_JSON-data-acquisition-using-signal` は [こちら](https://docs.intdash.jp/sdk/python/latest/ja/guide/datasample.html#json) に移行しました。
